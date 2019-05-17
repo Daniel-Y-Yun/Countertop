@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\kayla\\Desktop\\Countertop-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-th\\values-th.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kayla\\.gradle\\caches\\transforms-2\\files-2.1\\fed6d2681343bdb4b3fae17db5045288\\res\\values-th\\values.xml",
+                    "from": {
+                        "startLines": "6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "278,383,481,589,678,780,890,998,1102,1200,1308,1413,1514",
+                        "endColumns": "104,97,107,88,101,109,107,103,97,107,104,100,115",
+                        "endOffsets": "378,476,584,673,775,885,993,1097,1195,1303,1408,1509,1625"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,258,366,455,557,667,775,879,977,1085,1190,1291",
+                        "endColumns": "104,97,107,88,101,109,107,103,97,107,104,100,115",
+                        "endOffsets": "155,253,361,450,552,662,770,874,972,1080,1185,1286,1402"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\kayla\\.gradle\\caches\\transforms-2\\files-2.1\\393ea48d1d9345010a2d038aa6f5c91c\\res\\values-th\\values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "1407",
+                        "endColumns": "100",
+                        "endOffsets": "1503"
+                    }
+                }
+            ]
+        }
+    ]
+}
